@@ -18,6 +18,7 @@ public class MostEmbarrassingMoments {
             01001000 01010000 01100010 01000001
             01101011 01001001 01001110 01101101
             00110111 01001111 01101010 01010001
+            ERROR ERROR ERROR *BOOM*
         */
     }
 }
